@@ -1,1 +1,33 @@
 
+== Проект, который был сделан в рамка мини-курса по электронике Физтех.Фабрики
+
+В курсе изучаются этапы производства электрических изделий:
+
+=== 1. Виртуальное моделирование
+
+Можно сделать в https://www.tinkercad.com/[Tinkercad]
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/screen.png[Tinkercad,1928,888]
+
+=== 2. Натурное моделирование
+
+
+=== 3. Разработка печатной платы
+
+Проектирование платы производится в EasyEDA
+
+image:https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/eda.png[EasyEDA0]
+
+image:https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/plt.png[EasyEDA1]
+
+
+=== 4. Изготовление платы
+
+Подготавливаем программу для фрезера в FlatCAM.
+По факту указываем, что должен делать шпиндель: как вырезать дорожки, что делать дырки (сверлить) для компонетов.
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/flatcam.png[FlatCAM]
+
+=== 5. Шелкография
+
+=== 6. Пайка, проверка работоспособности
