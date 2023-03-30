@@ -1,0 +1,6 @@
+name: sometimes-migator
+title: Sometimes Migator
+version: ~
+start_page: index.adoc 
+nav: 
+- modules/ROOT/nav.adoc
