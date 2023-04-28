@@ -11,6 +11,10 @@ image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modu
 
 === 2. Натурное моделирование
 
+Собираем схему на макетной плате и убеждаемся, что она работает.
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/natura.jpg[NatureModelling]
+
 
 === 3. Разработка печатной платы
 
