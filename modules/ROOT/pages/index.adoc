@@ -30,4 +30,16 @@ image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modu
 
 === 5. Шелкография
 
+Подготаливаем рисунок в Corel Draw и наносим на плату с помощью лазерного принтера GCC.
+Пахнет плохо! Но зато понятно, куда устаналивать компоненты.
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/shekcographia.jpg[Shelkographia]
+
 === 6. Пайка, проверка работоспособности
+
+Размещаем компоненты на плате, паяем и проверяем, что всё работает.
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/circuit.jpg[Soldering]
+
+Паялось тяжело, потому что размер изоляционных дорожек был выбран слишком маленьким.
+В следующий раз имеет смысл делать их пошире.
