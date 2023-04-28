@@ -32,6 +32,12 @@ image:https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modul
 
 image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/flatcam.png[FlatCAM]
 
+Сверлим и вырезаем дорожки с помощью фрезерного станка.
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/manufacture_process.jpg[manufacture_process]
+
+image::https://raw.githubusercontent.com/matmuher/fabric_circuit_board/main/modules/ROOT/images/manufacture.jpg[manufacture]
+
 === 5. Шелкография
 
 Подготаливаем рисунок в Corel Draw и наносим на плату с помощью лазерного принтера GCC.
